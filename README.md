@@ -1,15 +1,7 @@
-# Basic Sample Hardhat Project
+# ERC20トークン作成
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+### 解説記事
 
-Try running some of the following tasks:
+- [Zenn](https://zenn.dev/yhoi/articles/5dd5b8249a0186)
+- [Qiita](https://qiita.com/ydevelop/items/56ae9e69eb86a7c860e2)
 
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
