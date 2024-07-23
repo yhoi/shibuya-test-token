@@ -1,5 +1,9 @@
 # ERC20トークン作成
 
+### 概要
+- Astar Netwarkでのトークンの作成記事
+
+
 ### 解説記事
 
 - [Zenn](https://zenn.dev/yhoi/articles/5dd5b8249a0186)
